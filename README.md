@@ -9,6 +9,10 @@
   <a href="https://www.npmjs.com/package/vuepress"><img src="https://img.shields.io/npm/v/vuepress.svg" alt="Version"></a>
   <a href="https://github.com/vuejs/vuepress/blob/master/LICENSE"><img src="https://img.shields.io/npm/l/vuepress.svg" alt="License"></a>
   <a href="https://discordapp.com/invite/HBherRA"><img src="https://img.shields.io/badge/Discord-join%20chat-738bd7.svg" alt="VuePress channel on Discord"></a>
+  <a href="https://circleci.com/gh/jerdog/vuepress/tree/circleci-project-setup"><img src="https://circleci.com/gh/jerdog/vuepress/tree/circleci-project-setup.svg?style=svg" alt="CircleCI"></a>
+
+  
+  https://circleci.com/<gh or bb>/<org>/<project name>.svg?style=svg
 </p>
 
 ## Install
